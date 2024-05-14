@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\Code\C\The largest number\The largest number\bin\Debug\net8.0\The largest number.exe
+C:\Users\Dell\Desktop\Code\C\The largest number\The largest number\bin\Debug\net8.0\The largest number.deps.json
+C:\Users\Dell\Desktop\Code\C\The largest number\The largest number\bin\Debug\net8.0\The largest number.runtimeconfig.json
+C:\Users\Dell\Desktop\Code\C\The largest number\The largest number\bin\Debug\net8.0\The largest number.dll
+C:\Users\Dell\Desktop\Code\C\The largest number\The largest number\bin\Debug\net8.0\The largest number.pdb
+C:\Users\Dell\Desktop\Code\C\The largest number\The largest number\obj\Debug\net8.0\The largest number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Code\C\The largest number\The largest number\obj\Debug\net8.0\The largest number.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Code\C\The largest number\The largest number\obj\Debug\net8.0\The largest number.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Code\C\The largest number\The largest number\obj\Debug\net8.0\The largest number.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Code\C\The largest number\The largest number\obj\Debug\net8.0\The largest number.dll
+C:\Users\Dell\Desktop\Code\C\The largest number\The largest number\obj\Debug\net8.0\refint\The largest number.dll
+C:\Users\Dell\Desktop\Code\C\The largest number\The largest number\obj\Debug\net8.0\The largest number.pdb
+C:\Users\Dell\Desktop\Code\C\The largest number\The largest number\obj\Debug\net8.0\The largest number.genruntimeconfig.cache
+C:\Users\Dell\Desktop\Code\C\The largest number\The largest number\obj\Debug\net8.0\ref\The largest number.dll

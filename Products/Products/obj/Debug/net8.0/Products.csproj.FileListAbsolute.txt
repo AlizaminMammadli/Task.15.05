@@ -1,0 +1,29 @@
+C:\Users\Dell\Desktop\Code\C\Products\Products\bin\Debug\net8.0\Products.exe
+C:\Users\Dell\Desktop\Code\C\Products\Products\bin\Debug\net8.0\Products.deps.json
+C:\Users\Dell\Desktop\Code\C\Products\Products\bin\Debug\net8.0\Products.runtimeconfig.json
+C:\Users\Dell\Desktop\Code\C\Products\Products\bin\Debug\net8.0\Products.dll
+C:\Users\Dell\Desktop\Code\C\Products\Products\bin\Debug\net8.0\Products.pdb
+C:\Users\Dell\Desktop\Code\C\Products\Products\obj\Debug\net8.0\Products.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Code\C\Products\Products\obj\Debug\net8.0\Products.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Code\C\Products\Products\obj\Debug\net8.0\Products.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Code\C\Products\Products\obj\Debug\net8.0\Products.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Code\C\Products\Products\obj\Debug\net8.0\Products.dll
+C:\Users\Dell\Desktop\Code\C\Products\Products\obj\Debug\net8.0\refint\Products.dll
+C:\Users\Dell\Desktop\Code\C\Products\Products\obj\Debug\net8.0\Products.pdb
+C:\Users\Dell\Desktop\Code\C\Products\Products\obj\Debug\net8.0\Products.genruntimeconfig.cache
+C:\Users\Dell\Desktop\Code\C\Products\Products\obj\Debug\net8.0\ref\Products.dll
+C:\Users\Dell\Desktop\Code\Task 1505\Task.15.05\Products\Products\obj\Debug\net8.0\Products.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Code\Task 1505\Task.15.05\Products\Products\obj\Debug\net8.0\Products.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Code\Task 1505\Task.15.05\Products\Products\obj\Debug\net8.0\Products.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Code\Task 1505\Task.15.05\Products\Products\obj\Debug\net8.0\Products.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Code\Task 1505\Task.15.05\Products\Products\obj\Debug\net8.0\Products.sourcelink.json
+C:\Users\Dell\Desktop\Code\Task 1505\Task.15.05\Products\Products\obj\Debug\net8.0\Products.dll
+C:\Users\Dell\Desktop\Code\Task 1505\Task.15.05\Products\Products\obj\Debug\net8.0\refint\Products.dll
+C:\Users\Dell\Desktop\Code\Task 1505\Task.15.05\Products\Products\obj\Debug\net8.0\Products.pdb
+C:\Users\Dell\Desktop\Code\Task 1505\Task.15.05\Products\Products\bin\Debug\net8.0\Products.exe
+C:\Users\Dell\Desktop\Code\Task 1505\Task.15.05\Products\Products\bin\Debug\net8.0\Products.deps.json
+C:\Users\Dell\Desktop\Code\Task 1505\Task.15.05\Products\Products\bin\Debug\net8.0\Products.runtimeconfig.json
+C:\Users\Dell\Desktop\Code\Task 1505\Task.15.05\Products\Products\bin\Debug\net8.0\Products.dll
+C:\Users\Dell\Desktop\Code\Task 1505\Task.15.05\Products\Products\bin\Debug\net8.0\Products.pdb
+C:\Users\Dell\Desktop\Code\Task 1505\Task.15.05\Products\Products\obj\Debug\net8.0\Products.genruntimeconfig.cache
+C:\Users\Dell\Desktop\Code\Task 1505\Task.15.05\Products\Products\obj\Debug\net8.0\ref\Products.dll
